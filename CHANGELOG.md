@@ -6,3 +6,6 @@
 - [x] Explore and preprocess data.
 - [x] Create a template file for testing models.
 - [x] Test a sample batch against Flan-T5.
+- [x] Create an output file from HSOL on Flan-T5 for further analysis and Answer Mapping.
+- [ ] Analyse the model outputs.
+- [ ] Research Answer Mapping techniques.
