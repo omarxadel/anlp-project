@@ -11,11 +11,12 @@ Advanced Natural Language Processing CSE740 Course Project - Alexandria Universi
 │   LICENSE
 │
 └───recreating-benchmark
-│   └───instruction_fine_tuned_lms.ipynb    // recreating tests on instruction fine-tuned models [flan-t5 and mt-0]
+│   └───instruction_fine_tuned_llms.ipynb    // recreating tests on instruction fine-tuned models [flan-t5 and mt-0]
 │   └───data
 |       └───preprocessed_data.csv           // collection of both datasets
 |       └───MHS
 |       └───HateEval
+│   └───outputs                            // model outputs
 ```
 
 ## Disclaimer
